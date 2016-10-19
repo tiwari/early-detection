@@ -1,4 +1,4 @@
 Technical report.
 
-Title: Early Detection of Malware Infections in an Enterprise
+Title: Early and Robust Malware Detection in Enterprise Networks
 
